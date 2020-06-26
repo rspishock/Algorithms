@@ -2,7 +2,7 @@
 
 This repository contains various algorithms in .py and .swift files.  These files were created as a method or learning CS concepts, specifially the typical algorithm questions that represent those asked during white board interviews by most tech companies as part of the software engineer interview process.
 
-As the majority of my development background is currently in Python, I will initially be focusing on creating these code samples using Python3 and Swift.
+As the majority of my development background is currently in Python, I will initially be focusing on creating these code samples using Python3 and then following up with Swift.
 
 The two main resources that I'll be using for this project are __Elements of Programming Interviews in Python__ and __Cracking The Coding Interview__.
 
